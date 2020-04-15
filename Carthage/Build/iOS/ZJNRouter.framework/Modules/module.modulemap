@@ -1,0 +1,6 @@
+framework module ZJNRouter {
+  umbrella header "ZJNRouter.h"
+
+  export *
+  module * { export * }
+}
